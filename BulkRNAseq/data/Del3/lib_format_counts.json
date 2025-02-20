@@ -1,0 +1,22 @@
+{
+    "read_files": "[ data/Del3_1.fastq.gz, data/Del3_2.fastq.gz]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 71400300,
+    "num_assigned_fragments": 71400300,
+    "num_frags_with_concordant_consistent_mappings": 68921090,
+    "num_frags_with_inconsistent_or_orphan_mappings": 2595493,
+    "strand_mapping_bias": 0.0000049911904038444708,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 344,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 68921090,
+    "SF": 362497,
+    "SR": 2232652,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

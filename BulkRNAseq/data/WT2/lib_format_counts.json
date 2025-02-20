@@ -1,0 +1,22 @@
+{
+    "read_files": "[ data/WT2_1.fastq.gz, data/WT2_2.fastq.gz]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 76157768,
+    "num_assigned_fragments": 76157768,
+    "num_frags_with_concordant_consistent_mappings": 74277709,
+    "num_frags_with_inconsistent_or_orphan_mappings": 1937931,
+    "strand_mapping_bias": 0.000004294675135963491,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 319,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 74277709,
+    "SF": 207951,
+    "SR": 1729661,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

@@ -1,0 +1,15 @@
+{
+    "salmon_version": "1.4.0",
+    "index": "salmon/salmon_index",
+    "libType": "A",
+    "mates1": "data/WT1_1.fastq.gz",
+    "mates2": "data/WT1_2.fastq.gz",
+    "threads": "12",
+    "seqBias": [],
+    "gcBias": [],
+    "numBootstraps": "30",
+    "recoverOrphans": [],
+    "validateMappings": [],
+    "output": "results/WT1",
+    "auxDir": "aux_info"
+}

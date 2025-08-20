@@ -20,7 +20,7 @@ While I used the parameters reported in the paper, I couldn't replicate the clus
 
 After that,  I exported the list of genes expressed by the cells that belonged to each cluster, and assessed how many of my previously identified DEGs were expressed in those clusters. I saw high levels of overlap between genes exported from the clusters and my DEGs, with no enrichment to any region. This result prompted me to look how many genes hippocampal regions share with each other. As a result, I observed a high overlap between these genes, suggesting that hippocampal regions express very similar set of genes, but at different levels, which results in specific identity of the region.
 
-<img align="center" src="figure5.png" width="250">
+<img align="center" src="figures/figure5.png" width="250">
 
 Finally, the depth of the bulk RNA-seq data allowed me to perform alternative splicing analysis, which I did using IsoformSwitchAnalyzeR (v 1.12.0) but didn't find any interesting results.
 
